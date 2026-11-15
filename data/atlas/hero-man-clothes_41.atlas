@@ -1,0 +1,404 @@
+Wardrobe-hero-man-clothes_41.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beice_miansha_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+beice_pifeng_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+beice_toushi_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+beice_toushi_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+beice_yaofeng_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+beice_yaofeng_41_3
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+beice_yifu_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+beice_yiling_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ce_miansha_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ce_pifeng_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ce_toushi_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ce_toushi_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ce_yaofeng_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ce_yifu_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ce_yiling_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+fuzhu_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_miansha_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_pifeng_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_pifeng_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_pifeng_41_3
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_qun_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_qun_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_qun_41_3
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_qun_41_4
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_qun_41_5
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_toushi_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_toushi_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_toushi_41_3
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_y_xiaobi_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_y_xiaobi_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_yaofeng_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_yaofeng_41_3
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_yaofeng_41_5
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_yaofeng_41_6
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_yifu_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_yifu_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_yifudi_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_yiling_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_yiling_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_yiling_41_3
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_z_dabi_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_z_xiaobi_41_1
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zheng_z_xiaobi_41_2
+  rotate: false
+  xy: 43, 159
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+beice_yaofeng_41_1
+  rotate: false
+  xy: 20, 166
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+ce_yaofeng_41_1
+  rotate: false
+  xy: 2, 93
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+zheng_y_dabi_41_1
+  rotate: false
+  xy: 245, 246
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+zheng_y_datui_41_1
+  rotate: false
+  xy: 20, 202
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+zheng_y_xiaotui_41_1
+  rotate: true
+  xy: 54, 223
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+zheng_y_xie_41_1
+  rotate: true
+  xy: 80, 205
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+zheng_y_xie_41_2
+  rotate: false
+  xy: 2, 70
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+zheng_y_xie_41_3
+  rotate: false
+  xy: 2, 48
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+zheng_yao_41_1
+  rotate: false
+  xy: 157, 223
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+zheng_yaofeng_41_1
+  rotate: false
+  xy: 2, 129
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+zheng_yaofeng_41_4
+  rotate: false
+  xy: 2, 166
+  size: 16, 85
+  orig: 16, 85
+  offset: 0, 0
+  index: -1
+zheng_z_datui_41_1
+  rotate: true
+  xy: 106, 225
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+zheng_z_xiaotui_41_1
+  rotate: true
+  xy: 201, 225
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+zheng_z_xie_41_1
+  rotate: false
+  xy: 54, 204
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
