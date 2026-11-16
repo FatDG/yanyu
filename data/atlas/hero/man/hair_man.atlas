@@ -1,4 +1,4 @@
-Wardrobe-man-hair_man.png
+hair_man.png
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -5940,7 +5940,7 @@ zheng_z_meimao15_1
   offset: 0, 0
   index: -1
 
-Wardrobe-man-hair_man2.png
+hair_man2.png
 size: 2048,1024
 format: RGBA8888
 filter: Linear,Linear
